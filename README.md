@@ -1,21 +1,21 @@
-🧠 Quiz Interativo para Programadores
+# 🧠 Quiz Interativo para Programadores
 
-Projeto de quiz interativo desenvolvido para praticar HTML, CSS e JavaScript.
+Projeto de **quiz interativo** desenvolvido para praticar **HTML, CSS e JavaScript**.  
 O foco é testar conhecimentos básicos de programação e reforçar conceitos de desenvolvimento web.
 
-🚀 Tecnologias
+## 🚀 Tecnologias
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript
 
-CSS3
+## 📚 Objetivo
 
-📚 Objetivo
+Projeto criado **para fins de estudo e aprendizado**.
 
-Este projeto foi desenvolvido exclusivamente para fins de estudo e aprendizado, como parte da minha jornada na área de desenvolvimento web.
+## 👩‍💻 Autora
 
-👩‍💻 Autora
+**Maria Luisa**
 
-Maria Luisa
-🔗 LinkedIn
-
-🔗 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-luisa-sanches-ba22b1322/)  
+🔗 [GitHub](https://github.com/marialuisasanches)
